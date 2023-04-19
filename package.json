@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Playing around with puppeteer package",
+  "main": "index.ts",
+  "repository": "git@github.com:patricknasr/puppeteer.git",
+  "author": "Patrick Nasr",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.8.5"
+  }
+}
